@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springTransaction-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.zwb
+Build-Jdk: 1.7.0_45
+Built-By: iverson Zhang
+Created-By: Maven Integration for Eclipse
+
